@@ -39,7 +39,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+[product-screenshot]: screenshots/picture1
 
 Online marketplaces such as Amazon allow people to share their experiences about purchased  products using textual comments known as product reviews. Online reviews from previous  consumers are key information sources for consumers and marketers. Fake product reviews on e-commerce websites mislead consumers and undermine trust in online marketplaces. Detecting  and eliminating fake reviews is essential to ensure genuine feedback and maintain the platform's  integrity.
 
